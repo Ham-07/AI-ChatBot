@@ -14,7 +14,7 @@ export default defineConfig({
   },
   server:{
     proxy:{
-      "/api":"https://ai-chatbot-teal-xi.vercel.app"
+      "/api":"https://ai-chatbot-ebon-five.vercel.app"
     }
   }
 })

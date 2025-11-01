@@ -10,7 +10,7 @@ const router=express.Router();
 
 router.get("/hello", (req: Request, res: Response) => {
   console.log("data fetched");
-  res.json({ message: "Hamza" });
+  res.json({ message: "Hello Hamza" });
 });
 
 
